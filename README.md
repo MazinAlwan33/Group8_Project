@@ -20,7 +20,7 @@ Project Showcase: Explore the projects we've developed.
 Responsive Design: The website is fully responsive and works seamlessly on all devices.
 Contact Information: Easily reach out to us via email.
 Technologies Used
-Front-End: HTML, CSS, JavaScript
+Front-End: HTML, CSS
 Fonts: Google Fonts (Roboto, Open Sans)
 Hosting: GitHub Pages (or any other hosting service)
 Tools: Visual Studio Code, Git
